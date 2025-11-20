@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**emilemassie/emilemassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I am Emile Massie Vanasse </h1>
+<p><h3 align="center">I'm a Digital Compositor turned Pipeline Developer. <br>I build tools that make VFX and animation workflows smarter, faster, and more artist-friendly.</h3><p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+<a href="https://github.com/emilemassie" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <img height=28 src="https://komarev.com/ghpvc/?username=emilemassie&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak" /> <a href="https://www.linkedin.com/in/emilemassie" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+
+</p>
+
+- 🌱 I’m a **Full Stack Developer**
+- 💬 Ask me about **Python, C#, React , HTML , CSS , JavaScript**
+- 📫 **emile.massie@gmail.com**
+
+
+<div align='center'>
+<h2>Languages and Tools:</h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,bash,blender,flask,fastapi,docker,aws&theme=dark" /></a>
+</div>
+
+<h2 align="center">Stats:</h2>
+<p align='center'><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=emilemassie&show_icons=true&locale=en&layout=compact&theme=react" alt="GitHub top-langs Card"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=emilemassie&show_icons=true&layout=compact&theme=react" alt="emilemassie"/>
+<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=emilemassie&theme=react" alt="emilemassie" />
+
+
+
+<div id="toc">
+  <ul align="right" style="list-style: none">
+    <summary>
+      <h1>
+        Hola, Bonjour, Hi! 🤙
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+
+
+ **<h3 align="left">PYTHON DEVELOPER AND DIGITAL ARTIST, MEXICAN BASED IN
+                        MONTREAL, QC WORKING IN VFX INDUSTRY AND NOW IN
+                        TECHNOLOGY INDUSTRY TO GRAB THE ART MATCH CODE...</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Working in develop  a vfx pipeline xolo-pipeline**
+- 🌱 I'm currently learning: **📚  Astro, javascript to keep learning Forntend**
+
+
+ **<h3 align="left">GitHub Stats</h3>**
+
