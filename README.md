@@ -29,6 +29,5 @@
 </div>
 
 <h2 align="center">Stats:</h2>
-<p align='center'><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilemassie&show_icons=true&locale=en&layout=compact&theme=react" alt="GitHub top-langs Card"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emilemassie&show_icons=true&layout=compact&theme=react" alt="emilemassie"/>
-<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=emilemassie&theme=react" alt="emilemassie" />
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilemassie&show_icons=true&locale=en&layout=compact&theme=react" alt="GitHub top-langs Card"/>
+
