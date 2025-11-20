@@ -10,7 +10,7 @@
 
 </p>
 
-- 🌱 I’m a **Full Stack Developer**
+- 🌱 I’m a **Pipeline Developer \ Digital Compositor**
 - 💬 Ask me about **Python, C#, React , HTML , CSS , JavaScript**
 - 📫 **emile.massie@gmail.com**
 
