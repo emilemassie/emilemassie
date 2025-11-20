@@ -22,30 +22,3 @@
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=emilemassie&show_icons=true&layout=compact&theme=react" alt="emilemassie"/>
 <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=emilemassie&theme=react" alt="emilemassie" />
 
-
-
-<div id="toc">
-  <ul align="right" style="list-style: none">
-    <summary>
-      <h1>
-        Hola, Bonjour, Hi! 🤙
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-**<h3 align="left">Connect with me:</h3>** 
-
-
- **<h3 align="left">PYTHON DEVELOPER AND DIGITAL ARTIST, MEXICAN BASED IN
-                        MONTREAL, QC WORKING IN VFX INDUSTRY AND NOW IN
-                        TECHNOLOGY INDUSTRY TO GRAB THE ART MATCH CODE...</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Working in develop  a vfx pipeline xolo-pipeline**
-- 🌱 I'm currently learning: **📚  Astro, javascript to keep learning Forntend**
-
-
- **<h3 align="left">GitHub Stats</h3>**
-
