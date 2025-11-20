@@ -14,14 +14,6 @@
 - 💬 Ask me about **Python, C#, React , HTML , CSS , JavaScript**
 - 📫 **emile.massie@gmail.com**
 
-<h2 align="center">Common Repos:</h2>
-<p align='center'>
-<a href="https://github.com/emilemassie/FoundryNukeTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emilemassie&repo=FoundryNukeTools&theme=react"/></a>
-<a href="https://github.com/emilemassie/BorisFX-Silhouette"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emilemassie&repo=BorisFX-Silhouette&theme=react"/></a>
-<a href="https://github.com/emilemassie/MassieVFXOpenEncoder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emilemassie&repo=MassieVFXOpenEncoder&theme=react"/></a>
-<a href="https://github.com/emilemassie/kitsu-action-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emilemassie&repo=kitsu-action-server&theme=react"/></a>
-</p>
-
 <div align='center'>
 <h2>Languages and Tools:</h2>
 <a href="https://skillicons.dev">
