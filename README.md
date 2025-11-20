@@ -19,5 +19,3 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,bash,blender,flask,fastapi,docker,aws&theme=dark" /></a>
 </div>
-
-<h2 align="center">Stats:</h2>
